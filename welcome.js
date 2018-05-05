@@ -23,7 +23,7 @@ botui.message.add({
         botui.message.add({
           delay: 1500,
           loading: true,
-          content: 'We are still in the stealth mode!'
+          content: 'We are currently working in stealth mode!'
         }).then(function(){
         botui.message.add({
         delay: 1000,
